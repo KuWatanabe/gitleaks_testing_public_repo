@@ -3,4 +3,4 @@
 ## this is leak
 |カラム名|設定値|
 |--|--|
-|password | b77a5c561934e089| # gitleaks:allow
+|password | b77a5c561934e089| 
